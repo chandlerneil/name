@@ -4,7 +4,7 @@ SafePlatform = true -- this will teleport you ontop of a platform to stay afk
 WAIT = 5
 ]]
 --[[	locals		]]--
-loadstring(game:HttpGet(""))() --usage: SpawnPlatform(Position)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chandlerneil/name/main/notsource"))() --usage: SpawnPlatform(Position)
 local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/FOXTROXHACKS/UsefullScripts/main/Notif"))()-- notification  system ofc
 local WS = game:GetService("Workspace")
 local LP = game:GetService("Players").LocalPlayer
